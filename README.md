@@ -13,12 +13,9 @@
 ```text
 .
 ├── .github/
-│   ├── .gitkeep
 │   └── assets/
-│       └── .gitkeep
 ├── lesson_01/
 │   ├── class/
-│   │   └── .gitkeep
 │   └── hw/
 │       └── hw_01.md
 ├── .gitignore
