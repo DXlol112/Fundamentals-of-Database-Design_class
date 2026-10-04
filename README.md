@@ -17,16 +17,16 @@
 ├── .github/
 │   ├── assets/
 │   │   ├── lesson_01/
-│   │   └── lesson_02/
-│   │       ├── 00-intsalling.png
-│   │       ├── 01-tree.png
-│   │       ├── 02-create-db.png
-│   │       ├── 03-create-table.png
-│   │       ├── 04-auto-increment.png
-│   │       ├── 05-add-records.png
-│   │       ├── 06-edit-record.png
-│   │       ├── 07-delete-record.png
-│   │       └── 08-create-second-table.png
+│   │   ├── lesson_02/
+│   │   │   ├── 00-intsalling.png
+│   │   │   ├── 01-tree.png
+│   │   │   ├── 02-create-db.png
+│   │   │   ├── 03-create-table.png
+│   │   │   ├── 04-auto-increment.png
+│   │   │   ├── 05-add-records.png
+│   │   │   ├── 06-edit-record.png
+│   │   │   ├── 07-delete-record.png
+│   │   │   └── 08-create-second-table.png
 │   │   └── lesson_03/
 │   │       ├── groups-table.png
 │   │       ├── students-table-keys.png
