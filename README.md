@@ -8,6 +8,7 @@
 | :-----: | :------: | :-------------------------------------------: |
 |    1    |    —     | [Домашнее задание № 1](lesson_01/hw/hw_01.md) |
 |    2    |    —     | [Домашнее задание № 2 — PostgreSQL и pgAdmin](lesson_02/hw/install-PostgreSQL.md) |
+|    3    |    —     | [Домашнее задание № 3 — Основы баз данных](lesson_03/hw/hw-03.md) |
 
 ## Структура
 
@@ -26,7 +27,13 @@
 │   │       ├── 06-edit-record.png
 │   │       ├── 07-delete-record.png
 │   │       └── 08-create-second-table.png
+│   │   └── lesson_03/
+│   │       ├── groups-table.png
+│   │       ├── students-table-keys.png
+│   │       └── students-table.png
 │   └── data/
+│       └── lesson_03/
+│           └── Дз-бд.xlsx
 ├── lesson_01/
 │   ├── class/
 │   └── hw/
@@ -35,6 +42,10 @@
 │   ├── class/
 │   └── hw/
 │       └── install-PostgreSQL.md
+├── lesson_03/
+│   ├── class/
+│   └── hw/
+│       └── hw-03.md
 ├── .gitignore
 ├── LICENSE.md
 └── README.md
