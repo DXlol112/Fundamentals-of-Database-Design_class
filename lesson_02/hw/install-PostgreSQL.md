@@ -148,39 +148,39 @@
 
 ### Задание 0. Установка PostgreSQL + pgAdmin
 
-[Установка](../../.github/assets/lesson_02/00-intsalling.png)
+![Установка](../../.github/assets/lesson_02/00-intsalling.png)
 
 ### Задание 1. Подключение к серверу
 
-[Подключение](../../.github/assets/lesson_02/01-tree.png)
+![Подключение](../../.github/assets/lesson_02/01-tree.png)
 
 ### Задание 2. Создание базы данных
 
-[Создание базы данных](../../.github/assets/lesson_02/02-create-db.png)
+![Создание базы данных](../../.github/assets/lesson_02/02-create-db.png)
 
 ### Задание 3. Создание таблицы
 
-[Создание таблицы](../../.github/assets/lesson_02/03-create-table.png)
+![Создание таблицы](../../.github/assets/lesson_02/03-create-table.png)
 
 ### Задание 4. Настройка автоувеличения поля id
 
-[Настройка автоувеличения](../../.github/assets/lesson_02/04-auto-increment.png)
+![Настройка автоувеличения](../../.github/assets/lesson_02/04-auto-increment.png)
 
 ### Задание 5. Добавление записей
 
-[Добавление записей](../../.github/assets/lesson_02/05-add-records.png)
+![Добавление записей](../../.github/assets/lesson_02/05-add-records.png)
 
 ### Задание 6. Изменение записи
 
-[Изменение записи](../../.github/assets/lesson_02/06-edit-record.png)
+![Изменение записи](../../.github/assets/lesson_02/06-edit-record.png)
 
 ### Задание 7. Удаление записи
 
-[Удаление записи](../../.github/assets/lesson_02/07-delete-record.png)
+![Удаление записи](../../.github/assets/lesson_02/07-delete-record.png)
 
 ### Задание 8. Самостоятельно
 
-[Создание второй таблицы](../../.github/assets/lesson_02/08-create-second-table.png)
+![Создание второй таблицы](../../.github/assets/lesson_02/08-create-second-table.png)
 
 ### Контрольные вопросы
 
