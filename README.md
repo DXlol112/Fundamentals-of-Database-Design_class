@@ -9,6 +9,7 @@
 |    1    |    —     | [Домашнее задание № 1](lesson_01/hw/hw_01.md) |
 |    2    |    —     | [Домашнее задание № 2 — PostgreSQL и pgAdmin](lesson_02/hw/install-PostgreSQL.md) |
 |    3    |    —     | [Домашнее задание № 3 — Основы баз данных](lesson_03/hw/hw-03.md) |
+|    4    |    —     | [Домашняя работа № 4 — Взаимосвязи и реляционные модели](lesson_04/hw/hw.md) |
 
 ## Структура
 
@@ -46,6 +47,10 @@
 │   ├── class/
 │   └── hw/
 │       └── hw-03.md
+├── lesson_04/
+│   ├── class/
+│   └── hw/
+│       └── hw.md
 ├── .gitignore
 ├── LICENSE.md
 └── README.md
